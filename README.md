@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## Download dataset and pretrained weights
 
 - Download [data](https://drive.google.com/file/d/18-FgRSJMg5DJuyhahAJeOuisjw35CPey/view?usp=share_link) and extract under the root of the repository
-- Download [weights](https://drive.google.com/file/d/19zzUNvY4HlzkxLmgGP7nsgZuKrok-dCn/view?usp=share_link)and extract under the root of the repository
+- Download [weights](https://drive.google.com/file/d/19zzUNvY4HlzkxLmgGP7nsgZuKrok-dCn/view?usp=share_link)  and extract under the root of the repository
 
 ## How to train
 

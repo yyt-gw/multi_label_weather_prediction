@@ -1,0 +1,14 @@
+train_images_root: ./data/train/
+val_images_root: ./data/test/
+train_path: ./data/train.txt
+test_path: ./data/test.txt
+val_path: ./data/test.txt
+classes_path: ./data/classes.txt
+device: cuda
+batch_size: 64
+frozen_layers: 7
+lr: 0.0001
+epochs: 40
+steps: [4, 8, 12, 16]
+num_workers: 4
+weights: ./weights/exp_at_20_26_46/best_model.pt

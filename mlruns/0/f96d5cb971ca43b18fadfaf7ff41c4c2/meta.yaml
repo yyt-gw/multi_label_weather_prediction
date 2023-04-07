@@ -1,0 +1,15 @@
+artifact_uri: file:///media/yyt/vol11/hitachi-research-image-captioning/multi_label_weather_classification/mlruns/0/f96d5cb971ca43b18fadfaf7ff41c4c2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f96d5cb971ca43b18fadfaf7ff41c4c2
+run_name: angry-gnat-157
+run_uuid: f96d5cb971ca43b18fadfaf7ff41c4c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680194236475
+status: 1
+tags: []
+user_id: yyt

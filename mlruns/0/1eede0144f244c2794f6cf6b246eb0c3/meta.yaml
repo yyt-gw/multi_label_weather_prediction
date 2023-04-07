@@ -1,0 +1,15 @@
+artifact_uri: file:///media/yyt/vol11/hitachi-research-image-captioning/multi_label_weather_classification/mlruns/0/1eede0144f244c2794f6cf6b246eb0c3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1eede0144f244c2794f6cf6b246eb0c3
+run_name: intelligent-bird-424
+run_uuid: 1eede0144f244c2794f6cf6b246eb0c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680197511472
+status: 1
+tags: []
+user_id: yyt

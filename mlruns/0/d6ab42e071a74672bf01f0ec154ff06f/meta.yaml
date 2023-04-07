@@ -1,0 +1,15 @@
+artifact_uri: file:///media/yyt/vol11/hitachi-research-image-captioning/multi_label_weather_classification/mlruns/0/d6ab42e071a74672bf01f0ec154ff06f/artifacts
+end_time: 1680204394930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6ab42e071a74672bf01f0ec154ff06f
+run_name: victorious-zebra-830
+run_uuid: d6ab42e071a74672bf01f0ec154ff06f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680204393589
+status: 4
+tags: []
+user_id: yyt

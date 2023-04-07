@@ -1,0 +1,15 @@
+artifact_uri: file:///media/yyt/vol11/hitachi-research-image-captioning/multi_label_weather_classification/mlruns/0/5f772604b2d6422e8f2e1df9bffe9bdb/artifacts
+end_time: 1680205276121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f772604b2d6422e8f2e1df9bffe9bdb
+run_name: nimble-grub-186
+run_uuid: 5f772604b2d6422e8f2e1df9bffe9bdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680205125274
+status: 4
+tags: []
+user_id: yyt

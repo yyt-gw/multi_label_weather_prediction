@@ -1,0 +1,15 @@
+artifact_uri: file:///media/yyt/vol11/hitachi-research-image-captioning/multi_label_weather_classification/mlruns/0/ac59016710f54a7584e247790986361e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac59016710f54a7584e247790986361e
+run_name: illustrious-slug-567
+run_uuid: ac59016710f54a7584e247790986361e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680194828307
+status: 1
+tags: []
+user_id: yyt

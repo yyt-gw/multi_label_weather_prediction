@@ -1,0 +1,15 @@
+artifact_uri: file:///media/yyt/vol11/hitachi-research-image-captioning/multi_label_weather_classification/mlruns/0/8946de9ee61a4819a65af700207b147a/artifacts
+end_time: 1680204640756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8946de9ee61a4819a65af700207b147a
+run_name: nosy-dolphin-121
+run_uuid: 8946de9ee61a4819a65af700207b147a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680204637764
+status: 4
+tags: []
+user_id: yyt

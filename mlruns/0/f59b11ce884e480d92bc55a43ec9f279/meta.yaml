@@ -1,0 +1,15 @@
+artifact_uri: file:///media/yyt/vol11/hitachi-research-image-captioning/multi_label_weather_classification/mlruns/0/f59b11ce884e480d92bc55a43ec9f279/artifacts
+end_time: 1680197492556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f59b11ce884e480d92bc55a43ec9f279
+run_name: gentle-flea-966
+run_uuid: f59b11ce884e480d92bc55a43ec9f279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680197282345
+status: 4
+tags: []
+user_id: yyt

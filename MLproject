@@ -1,0 +1,12 @@
+name: multi-label-weather-classification
+
+python_env: config/python_env.yml
+
+entry_points:
+  main:
+    parameters:
+      config_path: {type: path, default: ./config/config.yml}
+
+    command: |
+          python train.py \
+            --config {config_path}

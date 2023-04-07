@@ -1,14 +1,30 @@
-train_images_root: ./data/train/
-val_images_root: ./data/test/
-train_path: ./data/train.txt
-test_path: ./data/test.txt
-val_path: ./data/test.txt
-classes_path: ./data/classes.txt
+dataset:
+  train_images_root: ./data/train/
+  val_images_root: ./data/test/
+  train_path: ./data/train_1.txt
+  test_path: ./data/test_1.txt
+  val_path: ./data/test_1.txt
+  classes_path: ./data/classes.txt
+  batch_size: 16
+  mean :
+    - 0.485
+    - 0.456
+    - 0.406
+  std:
+    - 0.229
+    - 0.224
+    - 0.225
+backbone:
+  type: efficientnet_v2 # resnet50
+  frozen_layers: 4 # 7 for resnet50 is appropiate
+  input_size:
+    - 256
+    - 256
+training:
+  lr: 0.0001
+  epochs: 8
+  milestones: [2, 4, 6, 8]
+
 device: cuda
-batch_size: 64
-frozen_layers: 7
-lr: 0.0001
-epochs: 40
-steps: [4, 8, 12, 16]
 num_workers: 4
-weights: ./weights/exp_at_20_26_46/best_model.pt
+saved_dir: ./outputs/

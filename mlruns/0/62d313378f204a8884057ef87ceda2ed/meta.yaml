@@ -1,0 +1,15 @@
+artifact_uri: file:///media/yyt/vol11/hitachi-research-image-captioning/multi_label_weather_classification/mlruns/0/62d313378f204a8884057ef87ceda2ed/artifacts
+end_time: 1680207233280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62d313378f204a8884057ef87ceda2ed
+run_name: loud-snipe-740
+run_uuid: 62d313378f204a8884057ef87ceda2ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680205805365
+status: 3
+tags: []
+user_id: yyt

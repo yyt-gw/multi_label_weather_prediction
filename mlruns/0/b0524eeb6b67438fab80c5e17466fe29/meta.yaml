@@ -1,0 +1,15 @@
+artifact_uri: file:///media/yyt/vol11/hitachi-research-image-captioning/multi_label_weather_classification/mlruns/0/b0524eeb6b67438fab80c5e17466fe29/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0524eeb6b67438fab80c5e17466fe29
+run_name: polite-stag-123
+run_uuid: b0524eeb6b67438fab80c5e17466fe29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680197194240
+status: 1
+tags: []
+user_id: yyt

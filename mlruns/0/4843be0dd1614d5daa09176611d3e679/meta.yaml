@@ -1,0 +1,15 @@
+artifact_uri: file:///media/yyt/vol11/hitachi-research-image-captioning/multi_label_weather_classification/mlruns/0/4843be0dd1614d5daa09176611d3e679/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4843be0dd1614d5daa09176611d3e679
+run_name: rare-moose-973
+run_uuid: 4843be0dd1614d5daa09176611d3e679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680191150059
+status: 1
+tags: []
+user_id: yyt

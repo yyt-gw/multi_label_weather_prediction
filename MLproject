@@ -8,5 +8,5 @@ entry_points:
       config_path: {type: path, default: ./config/config.yml}
 
     command: |
-          python train.py \
+          python main.py  train \
             --config {config_path}

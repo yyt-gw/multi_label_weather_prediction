@@ -2,8 +2,11 @@ python: "3.10.5"
 build_dependencies:
   - pip
 dependencies:
-  - torch==1.12.0+cu113
-  - torchvision==0.13.0+cu113
+  - torch==1.13.1+cu116
+  - torchvision==0.14.1+cu116
+  - mlflow
+  - tqdm
+  - pandas
   - black
   - flake8
   - matplotlib
